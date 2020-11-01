@@ -20,3 +20,9 @@
 *Sergo*
 
 - rename PythonSorter -> PySort
+
+## 01.10.2020
+
+*Sergo*
+
+- add PyCourse
