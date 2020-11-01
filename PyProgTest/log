@@ -1,0 +1,310 @@
+| main.py    | DEBUG    | 01.11.2020 19:25:42 |
+| main.py    | DEBUG    | 01.11.2020 19:25:42 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:25:44 | start
+| main.py    | DEBUG    | 01.11.2020 19:25:44 | 
+| main.py    | DEBUG    | 01.11.2020 19:29:58 | 
+| main.py    | DEBUG    | 01.11.2020 19:29:58 | start program...
+| main.py    | DEBUG    | 01.11.2020 19:29:58 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:31:13 | 
+| main.py    | DEBUG    | 01.11.2020 19:31:13 | start program...
+| main.py    | DEBUG    | 01.11.2020 19:31:13 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:31:20 | start
+| main.py    | DEBUG    | 01.11.2020 19:31:20 | 
+| main.py    | DEBUG    | 01.11.2020 19:31:57 | 
+| main.py    | DEBUG    | 01.11.2020 19:31:57 | start program...
+| main.py    | DEBUG    | 01.11.2020 19:31:57 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:31:57 | start
+| main.py    | DEBUG    | 01.11.2020 19:31:57 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:13 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:13 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:34:13 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:34:13 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:16 | === end program... ===================
+| main.py    | DEBUG    | 01.11.2020 19:34:16 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:35 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:35 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:34:35 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:34:35 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:37 | === end program... ========================
+| main.py    | DEBUG    | 01.11.2020 19:34:37 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:58 | 
+| main.py    | DEBUG    | 01.11.2020 19:34:58 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:34:58 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:34:58 | 
+| main.py    | DEBUG    | 01.11.2020 19:35:00 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:35:00 | 
+| main.py    | DEBUG    | 01.11.2020 19:36:49 | 
+| main.py    | DEBUG    | 01.11.2020 19:36:49 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:36:49 | 
+| main.py    | DEBUG    | 01.11.2020 19:36:49 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:36:49 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:36:51 | 
+| main.py    | DEBUG    | 01.11.2020 19:36:51 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:36:51 | 
+| main.py    | DEBUG    | 01.11.2020 19:44:28 | 
+| main.py    | DEBUG    | 01.11.2020 19:44:28 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:44:28 | 
+| main.py    | DEBUG    | 01.11.2020 19:44:28 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:44:28 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:44:32 | 
+| main.py    | DEBUG    | 01.11.2020 19:44:32 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:44:32 | 
+| main.py    | DEBUG    | 01.11.2020 19:45:38 | 
+| main.py    | DEBUG    | 01.11.2020 19:45:38 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:45:38 | 
+| main.py    | DEBUG    | 01.11.2020 19:45:38 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:45:38 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:45:46 | 
+| main.py    | DEBUG    | 01.11.2020 19:45:46 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:45:46 | 
+| main.py    | DEBUG    | 01.11.2020 19:45:46 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:45:47 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:46:20 | 
+| main.py    | DEBUG    | 01.11.2020 19:46:20 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:46:20 | 
+| main.py    | DEBUG    | 01.11.2020 19:46:20 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:46:20 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:46:31 | 
+| main.py    | DEBUG    | 01.11.2020 19:46:31 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:46:31 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:08 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:08 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:47:08 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:08 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:47:08 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:47:10 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:10 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:47:10 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:17 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:17 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:47:17 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:17 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:47:17 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:47:27 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:27 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:47:27 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:49 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:49 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:47:49 | 
+| main.py    | DEBUG    | 01.11.2020 19:47:49 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:47:49 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:48:04 | 
+| main.py    | DEBUG    | 01.11.2020 19:48:04 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:48:04 | 
+| main.py    | DEBUG    | 01.11.2020 19:48:28 | 
+| main.py    | DEBUG    | 01.11.2020 19:48:28 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:48:28 | 
+| main.py    | DEBUG    | 01.11.2020 19:48:28 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:48:28 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:48:40 | 
+| main.py    | DEBUG    | 01.11.2020 19:48:40 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:48:40 | 
+| main.py    | DEBUG    | 01.11.2020 19:51:03 | 
+| main.py    | DEBUG    | 01.11.2020 19:51:03 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:51:03 | 
+| main.py    | DEBUG    | 01.11.2020 19:51:03 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:51:04 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:51:07 | 
+| main.py    | DEBUG    | 01.11.2020 19:51:07 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:51:07 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:38 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:38 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:52:38 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:38 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:52:38 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:52:38 | create new button...
+| main.py    | DEBUG    | 01.11.2020 19:52:38 | create new button...
+| main.py    | DEBUG    | 01.11.2020 19:52:41 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:41 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:52:41 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:46 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:46 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:52:46 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:46 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:52:46 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:52:46 | create new button...
+| main.py    | DEBUG    | 01.11.2020 19:52:46 | create new button...
+| main.py    | DEBUG    | 01.11.2020 19:52:50 | 
+| main.py    | DEBUG    | 01.11.2020 19:52:50 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:52:50 | 
+| main.py    | DEBUG    | 01.11.2020 19:54:00 | 
+| main.py    | DEBUG    | 01.11.2020 19:54:00 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:54:00 | 
+| main.py    | DEBUG    | 01.11.2020 19:54:00 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:54:00 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:54:00 | create new button...
+| main.py    | DEBUG    | 01.11.2020 19:54:00 | create new button...
+| main.py    | DEBUG    | 01.11.2020 19:54:02 | 
+| main.py    | DEBUG    | 01.11.2020 19:54:02 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:54:02 | 
+| main.py    | DEBUG    | 01.11.2020 19:58:39 | 
+| main.py    | DEBUG    | 01.11.2020 19:58:39 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 19:58:39 | 
+| main.py    | DEBUG    | 01.11.2020 19:58:39 | initialization
+| main.py    | DEBUG    | 01.11.2020 19:58:40 | create new window
+| main.py    | DEBUG    | 01.11.2020 19:58:40 |   | create new button ( %(text)s )
+| main.py    | DEBUG    | 01.11.2020 19:58:40 |   | create new button ( %(text)s )
+| main.py    | DEBUG    | 01.11.2020 19:58:41 | 
+| main.py    | DEBUG    | 01.11.2020 19:58:41 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 19:58:41 | 
+| main.py    | DEBUG    | 01.11.2020 20:00:48 | 
+| main.py    | DEBUG    | 01.11.2020 20:00:48 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:00:48 | 
+| main.py    | DEBUG    | 01.11.2020 20:00:48 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:00:48 | create new window
+| main.py    | DEBUG    | 01.11.2020 20:00:48 |   | create new button ( кнопка )
+| main.py    | DEBUG    | 01.11.2020 20:00:48 |   | create new button ( кнопка )
+| main.py    | DEBUG    | 01.11.2020 20:00:50 | 
+| main.py    | DEBUG    | 01.11.2020 20:00:50 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 20:00:50 | 
+| main.py    | DEBUG    | 01.11.2020 20:04:34 | 
+| main.py    | DEBUG    | 01.11.2020 20:04:34 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:04:34 | 
+| main.py    | DEBUG    | 01.11.2020 20:04:34 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:05:23 | 
+| main.py    | DEBUG    | 01.11.2020 20:05:23 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:05:23 | 
+| main.py    | DEBUG    | 01.11.2020 20:05:23 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:07:24 | 
+| main.py    | DEBUG    | 01.11.2020 20:07:24 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:07:24 | 
+| main.py    | DEBUG    | 01.11.2020 20:07:24 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:07:24 | create login window
+| main.py    | DEBUG    | 01.11.2020 20:07:37 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 20:07:37 | 
+| main.py    | DEBUG    | 01.11.2020 20:07:37 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 20:07:37 | 
+| main.py    | DEBUG    | 01.11.2020 20:09:37 | 
+| main.py    | DEBUG    | 01.11.2020 20:09:37 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:09:37 | 
+| main.py    | DEBUG    | 01.11.2020 20:09:37 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:09:37 | create login window
+| main.py    | DEBUG    | 01.11.2020 20:09:42 | try login in system...
+| main.py    | DEBUG    | 01.11.2020 20:09:42 |   | login: 11111
+| main.py    | DEBUG    | 01.11.2020 20:09:42 |   | pass:  111111
+| main.py    | DEBUG    | 01.11.2020 20:09:44 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 20:09:44 | 
+| main.py    | DEBUG    | 01.11.2020 20:09:44 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 20:09:44 | 
+| main.py    | DEBUG    | 01.11.2020 20:11:23 | 
+| main.py    | DEBUG    | 01.11.2020 20:11:23 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:11:23 | 
+| main.py    | DEBUG    | 01.11.2020 20:11:23 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:11:23 | create login window
+| main.py    | DEBUG    | 01.11.2020 20:11:27 | try login in system
+| main.py    | DEBUG    | 01.11.2020 20:11:27 |   | login: 11
+| main.py    | DEBUG    | 01.11.2020 20:11:27 |   | pass:  111
+| main.py    | DEBUG    | 01.11.2020 20:11:27 | clear login form
+| main.py    | DEBUG    | 01.11.2020 20:11:28 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 20:11:28 | 
+| main.py    | DEBUG    | 01.11.2020 20:11:28 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 20:11:28 | 
+| main.py    | DEBUG    | 01.11.2020 20:45:53 | 
+| main.py    | DEBUG    | 01.11.2020 20:45:53 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:45:53 | 
+| main.py    | DEBUG    | 01.11.2020 20:45:53 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:45:53 | create new form
+| main.py    | DEBUG    | 01.11.2020 20:45:53 |   | create new button ( кнопка )
+| main.py    | DEBUG    | 01.11.2020 20:46:11 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:11 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:46:11 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:11 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:46:11 | create new form
+| main.py    | DEBUG    | 01.11.2020 20:46:11 |   | create new button ( кнопка )
+| main.py    | DEBUG    | 01.11.2020 20:46:19 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 20:46:19 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:19 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 20:46:19 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:25 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:25 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:46:25 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:25 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:46:25 | create new form
+| main.py    | DEBUG    | 01.11.2020 20:46:25 |   | create new button ( кнопка )
+| main.py    | DEBUG    | 01.11.2020 20:46:34 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:34 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 20:46:34 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:34 | initialization
+| main.py    | DEBUG    | 01.11.2020 20:46:34 | create new form
+| main.py    | DEBUG    | 01.11.2020 20:46:34 |   | create new button ( кнопка )
+| main.py    | DEBUG    | 01.11.2020 20:46:37 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 20:46:37 | 
+| main.py    | DEBUG    | 01.11.2020 20:46:37 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 20:46:37 | 
+| main.py    | DEBUG    | 01.11.2020 21:01:27 | 
+| main.py    | DEBUG    | 01.11.2020 21:01:27 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:01:27 | 
+| main.py    | DEBUG    | 01.11.2020 21:01:27 | initialization
+| main.py    | DEBUG    | 01.11.2020 21:01:41 | 
+| main.py    | DEBUG    | 01.11.2020 21:01:41 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:01:41 | 
+| main.py    | DEBUG    | 01.11.2020 21:01:41 | initialization
+| main.py    | DEBUG    | 01.11.2020 21:01:41 | create register form
+| main.py    | DEBUG    | 01.11.2020 21:01:45 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 21:01:45 | 
+| main.py    | DEBUG    | 01.11.2020 21:01:45 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 21:01:45 | 
+| main.py    | DEBUG    | 01.11.2020 21:02:31 | 
+| main.py    | DEBUG    | 01.11.2020 21:02:31 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:02:31 | 
+| main.py    | DEBUG    | 01.11.2020 21:02:31 | initialization
+| main.py    | DEBUG    | 01.11.2020 21:02:47 | 
+| main.py    | DEBUG    | 01.11.2020 21:02:47 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:02:47 | 
+| main.py    | DEBUG    | 01.11.2020 21:02:47 | initialization
+| main.py    | DEBUG    | 01.11.2020 21:02:47 | create register form
+| main.py    | DEBUG    | 01.11.2020 21:02:55 | register in system
+| main.py    | DEBUG    | 01.11.2020 21:02:55 |   | login: 11111111111
+| main.py    | DEBUG    | 01.11.2020 21:02:55 |   | email: 1111111
+| main.py    | DEBUG    | 01.11.2020 21:02:55 |   | pass:  111111111111
+| main.py    | DEBUG    | 01.11.2020 21:03:14 | clear register form
+| main.py    | DEBUG    | 01.11.2020 21:03:15 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 21:03:15 | 
+| main.py    | DEBUG    | 01.11.2020 21:03:15 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 21:03:15 | 
+| main.py    | DEBUG    | 01.11.2020 21:07:14 | 
+| main.py    | DEBUG    | 01.11.2020 21:07:14 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:07:14 | 
+| main.py    | DEBUG    | 01.11.2020 21:07:14 | initialization
+| main.py    | DEBUG    | 01.11.2020 21:07:14 | --- create register form ---------
+| main.py    | DEBUG    | 01.11.2020 21:07:14 | start of mainloop
+| main.py    | DEBUG    | 01.11.2020 21:07:17 | 
+| main.py    | DEBUG    | 01.11.2020 21:07:17 | === end program... =======================
+| main.py    | DEBUG    | 01.11.2020 21:07:17 | 
+| main.py    | DEBUG    | 01.11.2020 21:29:43 | 
+| main.py    | DEBUG    | 01.11.2020 21:29:43 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:29:43 | 
+| main.py    | DEBUG    | 01.11.2020 21:29:43 | initialization
+| main.py    | DEBUG    | 01.11.2020 21:30:17 | 
+| main.py    | DEBUG    | 01.11.2020 21:30:17 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:30:17 | 
+| main.py    | DEBUG    | 01.11.2020 21:30:17 | initialization
+| main.py    | DEBUG    | 01.11.2020 21:31:03 | 
+| main.py    | DEBUG    | 01.11.2020 21:31:03 | === start program... =====================
+| main.py    | DEBUG    | 01.11.2020 21:31:03 | 
+| main.py    | DEBUG    | 01.11.2020 21:31:03 | initialization
+| main.py    | DEBUG    | 02.11.2020 00:09:54 | 
+| main.py    | DEBUG    | 02.11.2020 00:09:54 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 00:09:54 | 
+| main.py    | DEBUG    | 02.11.2020 00:09:54 | initialization
+| main.py    | DEBUG    | 02.11.2020 00:10:07 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:07 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 00:10:07 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:07 | initialization
+| main.py    | DEBUG    | 02.11.2020 00:10:10 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:10 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 00:10:10 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:10 | initialization
+| main.py    | DEBUG    | 02.11.2020 00:10:14 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:14 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 00:10:14 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:14 | initialization
+| main.py    | DEBUG    | 02.11.2020 00:10:23 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:23 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 00:10:23 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:23 | initialization
+| main.py    | DEBUG    | 02.11.2020 00:10:23 | --- create register form ---------
+| main.py    | DEBUG    | 02.11.2020 00:10:23 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 00:10:35 | 
+| main.py    | DEBUG    | 02.11.2020 00:10:35 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 00:10:35 | 
