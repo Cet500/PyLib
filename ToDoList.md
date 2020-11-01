@@ -26,3 +26,5 @@
 *Sergo*
 
 - add PyCourse
+- add PyProgTest
+- add PySiteTest
