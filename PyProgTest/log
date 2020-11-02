@@ -308,3 +308,379 @@
 | main.py    | DEBUG    | 02.11.2020 00:10:35 | 
 | main.py    | DEBUG    | 02.11.2020 00:10:35 | === end program... =======================
 | main.py    | DEBUG    | 02.11.2020 00:10:35 | 
+| main.py    | DEBUG    | 02.11.2020 13:46:00 | 
+| main.py    | DEBUG    | 02.11.2020 13:46:00 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 13:46:00 | 
+| main.py    | DEBUG    | 02.11.2020 13:46:00 | initialization
+| main.py    | DEBUG    | 02.11.2020 13:46:01 | --- create register form ---------
+| main.py    | DEBUG    | 02.11.2020 13:46:01 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 13:46:03 | 
+| main.py    | DEBUG    | 02.11.2020 13:46:03 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 13:46:03 | 
+| main.py    | DEBUG    | 02.11.2020 13:56:30 | 
+| main.py    | DEBUG    | 02.11.2020 13:56:30 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 13:56:30 | 
+| main.py    | DEBUG    | 02.11.2020 13:56:30 | initialization
+| main.py    | DEBUG    | 02.11.2020 13:56:30 | --- create register form ---------
+| main.py    | DEBUG    | 02.11.2020 13:56:30 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 13:56:32 | 
+| main.py    | DEBUG    | 02.11.2020 13:56:32 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 13:56:32 | 
+| main.py    | DEBUG    | 02.11.2020 14:07:11 | 
+| main.py    | INFO     | 02.11.2020 14:07:11 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:07:11 | 
+| main.py    | DEBUG    | 02.11.2020 14:07:11 | initialization
+| main.py    | INFO     | 02.11.2020 14:07:11 | success: open file data.txt
+| main.py    | INFO     | 02.11.2020 14:07:11 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 14:07:11 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 14:07:13 | 
+| main.py    | INFO     | 02.11.2020 14:07:13 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:07:13 | 
+| main.py    | DEBUG    | 02.11.2020 14:07:47 | 
+| main.py    | INFO     | 02.11.2020 14:07:47 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:07:47 | 
+| main.py    | DEBUG    | 02.11.2020 14:07:47 | initialization
+| main.py    | INFO     | 02.11.2020 14:07:47 | success: open file data.txt
+| main.py    | INFO     | 02.11.2020 14:07:47 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 14:07:47 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 14:07:55 | register in system
+| main.py    | DEBUG    | 02.11.2020 14:07:55 |   | login: 1111
+| main.py    | DEBUG    | 02.11.2020 14:07:55 |   | email: 1111
+| main.py    | DEBUG    | 02.11.2020 14:07:55 |   | pass:  11111
+| main.py    | DEBUG    | 02.11.2020 14:07:55 | clear register form
+| main.py    | DEBUG    | 02.11.2020 14:07:56 | 
+| main.py    | INFO     | 02.11.2020 14:07:56 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:07:56 | 
+| main.py    | DEBUG    | 02.11.2020 14:20:44 | 
+| main.py    | INFO     | 02.11.2020 14:20:44 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:20:44 | 
+| main.py    | DEBUG    | 02.11.2020 14:20:44 | initialization
+| main.py    | WARNING  | 02.11.2020 14:20:44 | warn: not found file data.json
+| main.py    | DEBUG    | 02.11.2020 14:20:54 | 
+| main.py    | INFO     | 02.11.2020 14:20:54 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:20:54 | 
+| main.py    | DEBUG    | 02.11.2020 14:20:54 | initialization
+| main.py    | INFO     | 02.11.2020 14:20:54 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:20:54 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 14:20:54 | start of mainloop
+| main.py    | INFO     | 02.11.2020 14:21:05 | success: register in system
+| main.py    | DEBUG    | 02.11.2020 14:21:05 |   | name:  1111
+| main.py    | DEBUG    | 02.11.2020 14:21:05 |   | login: 1111
+| main.py    | DEBUG    | 02.11.2020 14:21:05 |   | email: 1111
+| main.py    | DEBUG    | 02.11.2020 14:21:05 |   | pass:  1111
+| main.py    | DEBUG    | 02.11.2020 14:21:07 | clear register form
+| main.py    | DEBUG    | 02.11.2020 14:21:08 | 
+| main.py    | INFO     | 02.11.2020 14:21:08 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:21:08 | 
+| main.py    | DEBUG    | 02.11.2020 14:41:58 | 
+| main.py    | INFO     | 02.11.2020 14:41:58 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:41:58 | 
+| main.py    | DEBUG    | 02.11.2020 14:41:58 | initialization
+| main.py    | INFO     | 02.11.2020 14:41:58 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 14:42:46 | 
+| main.py    | INFO     | 02.11.2020 14:42:46 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:42:46 | 
+| main.py    | DEBUG    | 02.11.2020 14:42:46 | initialization
+| main.py    | INFO     | 02.11.2020 14:42:46 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:42:46 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:42:46 | 
+| main.py    | INFO     | 02.11.2020 14:42:46 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:42:46 | 
+| main.py    | DEBUG    | 02.11.2020 14:43:04 | 
+| main.py    | INFO     | 02.11.2020 14:43:04 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:43:04 | 
+| main.py    | DEBUG    | 02.11.2020 14:43:04 | initialization
+| main.py    | INFO     | 02.11.2020 14:43:04 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:43:04 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:43:04 | 
+| main.py    | INFO     | 02.11.2020 14:43:04 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:43:04 | 
+| main.py    | DEBUG    | 02.11.2020 14:43:13 | 
+| main.py    | INFO     | 02.11.2020 14:43:13 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:43:13 | 
+| main.py    | DEBUG    | 02.11.2020 14:43:13 | initialization
+| main.py    | INFO     | 02.11.2020 14:43:13 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:43:13 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:43:43 | 
+| main.py    | INFO     | 02.11.2020 14:43:43 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:43:43 | 
+| main.py    | DEBUG    | 02.11.2020 14:43:43 | initialization
+| main.py    | INFO     | 02.11.2020 14:43:43 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:43:43 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:43:47 | 
+| main.py    | INFO     | 02.11.2020 14:43:47 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:43:47 | 
+| main.py    | DEBUG    | 02.11.2020 14:43:47 | initialization
+| main.py    | INFO     | 02.11.2020 14:43:47 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:43:47 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:43:47 | 
+| main.py    | INFO     | 02.11.2020 14:43:47 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:43:47 | 
+| main.py    | DEBUG    | 02.11.2020 14:44:09 | 
+| main.py    | INFO     | 02.11.2020 14:44:09 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:44:09 | 
+| main.py    | DEBUG    | 02.11.2020 14:44:09 | initialization
+| main.py    | INFO     | 02.11.2020 14:44:09 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:44:09 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:44:22 | 
+| main.py    | INFO     | 02.11.2020 14:44:22 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:44:22 | 
+| main.py    | DEBUG    | 02.11.2020 14:44:22 | initialization
+| main.py    | INFO     | 02.11.2020 14:44:22 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:44:22 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:44:22 | 
+| main.py    | INFO     | 02.11.2020 14:44:22 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:44:22 | 
+| main.py    | DEBUG    | 02.11.2020 14:44:37 | 
+| main.py    | INFO     | 02.11.2020 14:44:37 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:44:37 | 
+| main.py    | DEBUG    | 02.11.2020 14:44:37 | initialization
+| main.py    | INFO     | 02.11.2020 14:44:37 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:44:37 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:44:37 | 
+| main.py    | INFO     | 02.11.2020 14:44:37 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:44:37 | 
+| main.py    | DEBUG    | 02.11.2020 14:46:14 | 
+| main.py    | INFO     | 02.11.2020 14:46:14 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:46:14 | 
+| main.py    | DEBUG    | 02.11.2020 14:46:14 | initialization
+| main.py    | INFO     | 02.11.2020 14:46:14 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 14:46:14 | success: load objects from file data.json
+| main.py    | DEBUG    | 02.11.2020 14:46:14 | 
+| main.py    | INFO     | 02.11.2020 14:46:14 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:46:14 | 
+| main.py    | DEBUG    | 02.11.2020 14:47:14 | 
+| main.py    | INFO     | 02.11.2020 14:47:14 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:47:14 | 
+| main.py    | DEBUG    | 02.11.2020 14:47:14 | initialization
+| main.py    | INFO     | 02.11.2020 14:47:14 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 14:48:52 | 
+| main.py    | INFO     | 02.11.2020 14:48:52 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:48:52 | 
+| main.py    | DEBUG    | 02.11.2020 14:48:52 | initialization
+| main.py    | WARNING  | 02.11.2020 14:48:52 | warn: not data in file data.json
+| main.py    | INFO     | 02.11.2020 14:48:52 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 14:48:52 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 14:49:13 | clear register form
+| main.py    | DEBUG    | 02.11.2020 14:49:14 | 
+| main.py    | INFO     | 02.11.2020 14:49:14 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:49:14 | 
+| main.py    | DEBUG    | 02.11.2020 14:50:15 | 
+| main.py    | INFO     | 02.11.2020 14:50:15 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:50:15 | 
+| main.py    | DEBUG    | 02.11.2020 14:50:15 | initialization
+| main.py    | INFO     | 02.11.2020 14:50:15 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 14:50:25 | 
+| main.py    | INFO     | 02.11.2020 14:50:25 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:50:25 | 
+| main.py    | DEBUG    | 02.11.2020 14:50:25 | initialization
+| main.py    | WARNING  | 02.11.2020 14:50:25 | warn: not data in file data.json
+| main.py    | INFO     | 02.11.2020 14:50:25 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 14:50:25 | start of mainloop
+| main.py    | INFO     | 02.11.2020 14:50:33 | success: append object in file data.json
+| main.py    | INFO     | 02.11.2020 14:50:33 | success: register in system
+| main.py    | DEBUG    | 02.11.2020 14:50:33 |   | name:  2222222
+| main.py    | DEBUG    | 02.11.2020 14:50:33 |   | login: 1111111
+| main.py    | DEBUG    | 02.11.2020 14:50:33 |   | email: 3333333
+| main.py    | DEBUG    | 02.11.2020 14:50:33 |   | pass:  44444444
+| main.py    | DEBUG    | 02.11.2020 14:50:35 | clear register form
+| main.py    | DEBUG    | 02.11.2020 14:50:36 | 
+| main.py    | INFO     | 02.11.2020 14:50:36 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 14:50:36 | 
+| main.py    | DEBUG    | 02.11.2020 14:52:04 | 
+| main.py    | INFO     | 02.11.2020 14:52:04 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:52:04 | 
+| main.py    | DEBUG    | 02.11.2020 14:52:04 | initialization
+| main.py    | INFO     | 02.11.2020 14:52:04 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 14:56:46 | 
+| main.py    | INFO     | 02.11.2020 14:56:46 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:56:46 | 
+| main.py    | DEBUG    | 02.11.2020 14:56:46 | initialization
+| main.py    | INFO     | 02.11.2020 14:56:46 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 14:56:56 | 
+| main.py    | INFO     | 02.11.2020 14:56:56 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:56:56 | 
+| main.py    | DEBUG    | 02.11.2020 14:56:56 | initialization
+| main.py    | INFO     | 02.11.2020 14:56:56 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 14:59:34 | 
+| main.py    | INFO     | 02.11.2020 14:59:34 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:59:34 | 
+| main.py    | DEBUG    | 02.11.2020 14:59:34 | initialization
+| main.py    | INFO     | 02.11.2020 14:59:34 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 14:59:57 | 
+| main.py    | INFO     | 02.11.2020 14:59:57 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 14:59:57 | 
+| main.py    | DEBUG    | 02.11.2020 14:59:57 | initialization
+| main.py    | INFO     | 02.11.2020 14:59:57 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 15:03:23 | 
+| main.py    | INFO     | 02.11.2020 15:03:23 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:03:23 | 
+| main.py    | DEBUG    | 02.11.2020 15:03:23 | initialization
+| main.py    | INFO     | 02.11.2020 15:03:23 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 15:04:21 | 
+| main.py    | INFO     | 02.11.2020 15:04:21 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:04:21 | 
+| main.py    | DEBUG    | 02.11.2020 15:04:21 | initialization
+| main.py    | INFO     | 02.11.2020 15:04:21 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 15:04:34 | 
+| main.py    | INFO     | 02.11.2020 15:04:34 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:04:34 | 
+| main.py    | DEBUG    | 02.11.2020 15:04:34 | initialization
+| main.py    | INFO     | 02.11.2020 15:04:34 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 15:05:57 | 
+| main.py    | INFO     | 02.11.2020 15:05:57 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:05:57 | 
+| main.py    | DEBUG    | 02.11.2020 15:05:57 | initialization
+| main.py    | INFO     | 02.11.2020 15:05:57 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 15:07:35 | 
+| main.py    | INFO     | 02.11.2020 15:07:35 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:07:35 | 
+| main.py    | DEBUG    | 02.11.2020 15:07:35 | initialization
+| main.py    | INFO     | 02.11.2020 15:07:35 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 15:07:41 | 
+| main.py    | INFO     | 02.11.2020 15:07:41 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:07:41 | 
+| main.py    | DEBUG    | 02.11.2020 15:07:41 | initialization
+| main.py    | INFO     | 02.11.2020 15:07:41 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 15:07:41 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 15:07:41 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:07:41 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:07:43 | 
+| main.py    | INFO     | 02.11.2020 15:07:43 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:07:43 | 
+| main.py    | DEBUG    | 02.11.2020 15:08:24 | 
+| main.py    | INFO     | 02.11.2020 15:08:24 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:08:24 | 
+| main.py    | DEBUG    | 02.11.2020 15:08:24 | initialization
+| main.py    | INFO     | 02.11.2020 15:08:24 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 15:08:24 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 15:08:25 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:08:25 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:08:27 | 
+| main.py    | INFO     | 02.11.2020 15:08:27 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:08:27 | 
+| main.py    | DEBUG    | 02.11.2020 15:08:42 | 
+| main.py    | INFO     | 02.11.2020 15:08:42 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:08:42 | 
+| main.py    | DEBUG    | 02.11.2020 15:08:42 | initialization
+| main.py    | INFO     | 02.11.2020 15:08:42 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 15:08:42 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 15:08:42 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:08:42 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:08:44 | 
+| main.py    | INFO     | 02.11.2020 15:08:44 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:08:44 | 
+| main.py    | DEBUG    | 02.11.2020 15:08:58 | 
+| main.py    | INFO     | 02.11.2020 15:08:58 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:08:58 | 
+| main.py    | DEBUG    | 02.11.2020 15:08:58 | initialization
+| main.py    | INFO     | 02.11.2020 15:08:58 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 15:08:58 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 15:08:58 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:08:58 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:09:00 | 
+| main.py    | INFO     | 02.11.2020 15:09:00 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:09:00 | 
+| main.py    | DEBUG    | 02.11.2020 15:09:05 | 
+| main.py    | INFO     | 02.11.2020 15:09:05 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:09:05 | 
+| main.py    | DEBUG    | 02.11.2020 15:09:05 | initialization
+| main.py    | INFO     | 02.11.2020 15:09:05 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 15:09:05 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 15:09:05 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:09:05 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:09:06 | 
+| main.py    | INFO     | 02.11.2020 15:09:06 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:09:06 | 
+| main.py    | DEBUG    | 02.11.2020 15:09:13 | 
+| main.py    | INFO     | 02.11.2020 15:09:13 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:09:13 | 
+| main.py    | DEBUG    | 02.11.2020 15:09:13 | initialization
+| main.py    | INFO     | 02.11.2020 15:09:13 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 15:09:13 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 15:09:13 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:09:13 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:09:14 | 
+| main.py    | INFO     | 02.11.2020 15:09:14 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:09:14 | 
+| main.py    | DEBUG    | 02.11.2020 15:09:56 | 
+| main.py    | INFO     | 02.11.2020 15:09:56 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:09:56 | 
+| main.py    | DEBUG    | 02.11.2020 15:09:56 | initialization
+| main.py    | WARNING  | 02.11.2020 15:09:56 | warn: not data in file data.json
+| main.py    | INFO     | 02.11.2020 15:09:56 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:09:56 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:09:58 | 
+| main.py    | INFO     | 02.11.2020 15:09:58 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:09:58 | 
+| main.py    | DEBUG    | 02.11.2020 15:10:28 | 
+| main.py    | INFO     | 02.11.2020 15:10:28 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:10:28 | 
+| main.py    | DEBUG    | 02.11.2020 15:10:28 | initialization
+| main.py    | WARNING  | 02.11.2020 15:10:28 | warn: not data in file data.json
+| main.py    | INFO     | 02.11.2020 15:10:28 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:10:28 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:10:30 | 
+| main.py    | INFO     | 02.11.2020 15:10:30 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:10:30 | 
+| main.py    | DEBUG    | 02.11.2020 15:15:30 | 
+| main.py    | INFO     | 02.11.2020 15:15:30 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:15:30 | 
+| main.py    | DEBUG    | 02.11.2020 15:15:30 | initialization
+| main.py    | INFO     | 02.11.2020 15:15:30 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 15:15:56 | 
+| main.py    | INFO     | 02.11.2020 15:15:56 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 15:15:56 | 
+| main.py    | DEBUG    | 02.11.2020 15:15:56 | initialization
+| main.py    | INFO     | 02.11.2020 15:15:56 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 15:15:56 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 15:15:56 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 15:15:56 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 15:15:58 | 
+| main.py    | INFO     | 02.11.2020 15:15:58 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 15:15:58 | 
+| main.py    | DEBUG    | 02.11.2020 16:10:38 | 
+| main.py    | INFO     | 02.11.2020 16:10:38 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 16:10:38 | 
+| main.py    | DEBUG    | 02.11.2020 16:10:38 | initialization
+| main.py    | INFO     | 02.11.2020 16:10:38 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 16:10:38 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 16:10:38 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 16:10:38 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 16:16:55 | 
+| main.py    | INFO     | 02.11.2020 16:16:55 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 16:16:55 | 
+| main.py    | DEBUG    | 02.11.2020 16:17:03 | 
+| main.py    | INFO     | 02.11.2020 16:17:03 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 16:17:03 | 
+| main.py    | DEBUG    | 02.11.2020 16:17:03 | initialization
+| main.py    | INFO     | 02.11.2020 16:17:03 | success: open file data.json
+| main.py    | INFO     | 02.11.2020 16:17:03 | success: load objects from file data.json
+| main.py    | INFO     | 02.11.2020 16:17:03 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 16:17:03 | start of mainloop
+| main.py    | INFO     | 02.11.2020 16:17:12 | success: append object in file data.json
+| main.py    | INFO     | 02.11.2020 16:17:12 | success: register in system
+| main.py    | DEBUG    | 02.11.2020 16:17:18 | 
+| main.py    | INFO     | 02.11.2020 16:17:18 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 16:17:18 | 
+| main.py    | DEBUG    | 02.11.2020 16:17:30 | 
+| main.py    | INFO     | 02.11.2020 16:17:30 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 16:17:30 | 
+| main.py    | DEBUG    | 02.11.2020 16:17:30 | initialization
+| main.py    | INFO     | 02.11.2020 16:17:30 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 16:21:36 | 
+| main.py    | INFO     | 02.11.2020 16:21:36 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 16:21:36 | 
+| main.py    | DEBUG    | 02.11.2020 16:21:36 | initialization
+| main.py    | INFO     | 02.11.2020 16:21:36 | success: open file data.json
+| main.py    | DEBUG    | 02.11.2020 16:23:07 | 
+| main.py    | INFO     | 02.11.2020 16:23:07 | === start program... =====================
+| main.py    | DEBUG    | 02.11.2020 16:23:07 | 
+| main.py    | DEBUG    | 02.11.2020 16:23:07 | initialization
+| main.py    | INFO     | 02.11.2020 16:23:07 | success: open file data.json
+| main.py    | WARNING  | 02.11.2020 16:23:07 | warn: error load objects from file data.json
+| main.py    | INFO     | 02.11.2020 16:23:07 | --- create register form ---------
+| main.py    | INFO     | 02.11.2020 16:23:07 | start of mainloop
+| main.py    | DEBUG    | 02.11.2020 16:23:09 | 
+| main.py    | INFO     | 02.11.2020 16:23:09 | === end program... =======================
+| main.py    | DEBUG    | 02.11.2020 16:23:09 | 
