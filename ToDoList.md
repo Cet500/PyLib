@@ -28,3 +28,9 @@
 - add PyCourse
 - add PyProgTest
 - add PySiteTest
+
+## 10.11.2020
+
+*Sergo*
+
+- add PyBotTest
