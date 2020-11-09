@@ -13,11 +13,6 @@ log.basicConfig(
 
 bot = tbot.TeleBot(config.TOKEN, config.PARSE_MODE)
 
-data = {
-	'bool_menu'  : False,
-	'id_keyboard': 0
-}
-
 log.info("")
 log.info("=== start bot... =====================")
 log.info("")
@@ -49,7 +44,7 @@ def open_menu(message):
 	markup.add(key_settings, key_dialog, key_help, key_exit)
 
 	if message.from_user.username == "sergoindustries":
-		bot.send_message(message.chat.id, "Всё для вас", reply_markup = types.ReplyKeyboardRemove())
+		bot.send_message(message.chat.id, "Всё для вас", reply_markup = markup)
 	else:
 		bot.send_message(message.chat.id, "Меню вызвано", reply_markup = markup)
 
@@ -63,7 +58,7 @@ def close_menu(message):
 
 
 @bot.message_handler(commands = ['help'])
-def help(message):
+def help_commands(message):
 	log.info(f"request  | {message.text}")
 
 	if message.from_user.username == "sergoindustries":
@@ -74,13 +69,13 @@ def help(message):
 		log.info(f"response | Нужна помощь, {message.from_user.first_name}")
 
 	bot.send_message(message.chat.id, f"""
-	Вот, что я могу для вас сделать, {message.from_user.first_name}:
-	
-	*/start*    - вывести приветствие
-	*/menu*     - показать меню
-	*/dialog*   - завести диалог
-	*/settings* - открыть настройки
-	*/help*     - показать это сообщение
+		Вот, что я могу для вас сделать, {message.from_user.first_name}:
+		
+		*/start*    - вывести приветствие
+		*/menu*     - показать меню
+		*/dialog*   - завести диалог
+		*/settings* - открыть настройки
+		*/help*     - показать это сообщение
 	""")
 
 
@@ -95,22 +90,24 @@ def send_notice():
 
 
 @bot.message_handler(content_types = ['text'])
-def text_comands(message):
+def text_commands(message):
+	log.info(f"request  | {message.text}")
+
 	if message.text.lower() == "выведи настройки":
 		pass
 	elif message.text.lower() == "давай поговорим":
 		pass
 	elif message.text.lower() == "что ты можешь?":
-		help(message)
+		help_commands(message)
 	elif message.text.lower() == "закрой меню":
 		close_menu(message)
 	else:
 		bot.send_message(message.chat.id, message.text)
-		log.info(f"echo | {message.text}")
+		log.info(f"echo    | {message.text}")
 
 
 @bot.message_handler(commands = ['stop'])
-def welcome(message):
+def stop(message):
 	if message.from_user.username == "sergoindustries":
 		bot.send_message(message.chat.id, "Goodbye, master")
 		bot.stop_bot()
